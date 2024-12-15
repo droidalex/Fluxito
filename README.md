@@ -22,7 +22,7 @@ or
 
 venv\Scripts\activate #Windows
 ``` 
-4 . Write your together.ai api key into .env file
+4 . Write your together.ai api key into .env file\n
 5 . Open terminal and execute:
 ```
 streamlit run together_ai_generator.py
