@@ -21,9 +21,13 @@ source venv/bin/activate #Linux
 or
 
 venv\Scripts\activate #Windows
-``` 
-4. Write your together.ai api key into .env file
-5. Open terminal and execute:
+```
+4. Install requirements:
+```
+pip install -r requirements.txt
+```
+5. Write your together.ai api key into .env file
+6. Open terminal and execute:
 ```
 streamlit run together_ai_generator.py
 ```
